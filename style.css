@@ -1,0 +1,50 @@
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #1abc9c;
+  color: #ffdf00;
+}
+h1 {
+    color: #ffdf00;
+  }
+.header h1 {
+  font-size: 40px;
+  color: #ffdf00;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #ECE22C;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #038C33;
+  text-align: center;
+  padding: 18px 24px;
+  text-decoration: none;
+}
+
+.navbar a.right {
+  float: right;
+}
+
+.navbar a:hover {
+  background-color: #009c3b;
+  color: ##021373;
+}
+
+footer {
+  display: block;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #314010;
+  color: #D9B607;
+  text-align: center;
+}
